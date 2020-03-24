@@ -1,5 +1,5 @@
----
-layout: slide 
-title: "Welcome to our second slide!"
----
-This is my first commit :) 
+new file 
+
+enter witty comment 
+they said
+...
